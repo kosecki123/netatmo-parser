@@ -8,6 +8,7 @@
                   [org.clojure/data.json "0.2.6"]
                   [clj-http "2.0.0"]
                   ]
+  :plugins [[lein-cljfmt "0.3.0"]]
   :main ^:skip-aot netatmo-parser.core
   :resource-paths ["resources"]
   :target-path "target/%s"

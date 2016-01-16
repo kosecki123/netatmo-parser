@@ -5,7 +5,7 @@
 
 (deftest get-measurement-test
   (testing "Should return the temp"
-    (let [ measure "[{
+    (let [measure "[{
                     \"res\": {
                         \"1452254076\": [
                             -13.7,
@@ -24,18 +24,15 @@
                     \"rain_timeutc\": 1452253764
                 }
            ]"
-           measure_deserialized (json/read-json measure)
-           result (get-measure-results-by-type measure_deserialized)
-           ]
-    (println result)
-    (is (= (:temperature result) -13.7))
-    (is (= (:rain result) 0))
-      )))
+          measure_deserialized (json/read-json measure)
+          result (get-measure-results-by-type measure_deserialized)]
+      (println result)
+      (is (= (:temperature result) -13.7))
+      (is (= (:rain result) 0)))))
 
 (deftest get-rain-data
   (testing "Should read the rain data from the json"
-    (let [
-           data "{
+    (let [data "{
             \"_id\": \"70:ee:50:02:1e:48\",
             \"place\": {
                 \"location\": [
@@ -81,17 +78,16 @@
                 \"05:00:00:00:c5:6a\"
             ]
         }"
-           result-body (json/read-json data)
-           m (get-measure-values result-body)
-           result 0.202
-           ]
+          result-body (json/read-json data)
+          m (get-measure-values result-body)
+          result 0.202]
       (println result-body)
       (println m)
       (is (= result 0.202)))))
 
 (deftest get-lat-lon
   (testing "Should return coordinates from the json file"
-    (let [ location "{
+    (let [location "{
    \"results\" : [
       {
          \"address_components\" : [
@@ -150,7 +146,6 @@
    ],
    \"status\" : \"OK\"
 }"
-           result (get-location-from-body (deserialize-body {:body location}))
-           ]
+          result (get-location-from-body (deserialize-body {:body location}))]
 
-    (is (= result {:lat_ne 25.8556059, :lon_ne -80.14240029999999, :lon_sw -80.31975989999999, :lat_sw 25.709042})))))
+      (is (= result {:lat_ne 25.8556059, :lon_ne -80.14240029999999, :lon_sw -80.31975989999999, :lat_sw 25.709042})))))

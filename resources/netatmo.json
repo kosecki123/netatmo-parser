@@ -1,0 +1,5300 @@
+{
+    "body": [
+        {
+            "_id": "70:ee:50:15:fb:66",
+            "place": {
+                "location": [
+                    10.4256978,
+                    63.3565783
+                ],
+                "altitude": 77,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 5,
+            "measures": {
+                "02:00:00:16:16:24": {
+                    "res": {
+                        "1452252895": [
+                            -19.4,
+                            86
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:15:fb:66": {
+                    "res": {
+                        "1452252897": [
+                            996.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:16:16:24"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:ed:96",
+            "place": {
+                "location": [
+                    10.424999,
+                    63.357007
+                ],
+                "altitude": 77,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:04:bf:1e": {
+                    "res": {
+                        "1452252414": [
+                            -19.2,
+                            91
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:ed:96": {
+                    "res": {
+                        "1452252464": [
+                            1001
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:bf:1e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:03:92:3c",
+            "place": {
+                "location": [
+                    10.407369006885,
+                    63.390914983453
+                ],
+                "altitude": 61,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:03:7c:2c": {
+                    "res": {
+                        "1452253732": [
+                            -16.2,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:00:58:7e": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452253764
+                },
+                "70:ee:50:03:92:3c": {
+                    "res": {
+                        "1452253765": [
+                            1006
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:03:7c:2c",
+                "05:00:00:00:58:7e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:89:40",
+            "place": {
+                "location": [
+                    10.409744,
+                    63.388536
+                ],
+                "altitude": 104,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:05:85:6e": {
+                    "res": {
+                        "1452254169": [
+                            -16.2,
+                            81
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:89:40": {
+                    "res": {
+                        "1452254173": [
+                            1011.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:85:6e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:ba:b0",
+            "place": {
+                "location": [
+                    10.4252517,
+                    63.3857789
+                ],
+                "altitude": 120,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:12:cc:fa": {
+                    "res": {
+                        "1452254179": [
+                            -13.9,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:ba:b0": {
+                    "res": {
+                        "1452254187": [
+                            1008.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:cc:fa"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:6d:ae",
+            "place": {
+                "location": [
+                    10.418499,
+                    63.396414
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:17:82:9a": {
+                    "res": {
+                        "1452254261": [
+                            -13,
+                            69
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:6d:ae": {
+                    "res": {
+                        "1452254304": [
+                            991.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:82:9a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:13:16:c4",
+            "place": {
+                "location": [
+                    10.428373037025,
+                    63.399286084074
+                ],
+                "altitude": 95,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:12:ec:0a": {
+                    "res": {
+                        "1452253737": [
+                            -16.2,
+                            82
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:13:16:c4": {
+                    "res": {
+                        "1452253786": [
+                            1004.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:ec:0a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:03:90:b4",
+            "place": {
+                "location": [
+                    10.4261427,
+                    63.3960749
+                ],
+                "altitude": 100,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:03:79:9e": {
+                    "res": {
+                        "1452254266": [
+                            -15.6,
+                            81
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:03:90:b4": {
+                    "res": {
+                        "1452254295": [
+                            1005.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:03:79:9e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:8b:2e",
+            "place": {
+                "location": [
+                    10.427591,
+                    63.403019
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:15:db:26": {
+                    "res": {
+                        "1452253882": [
+                            -21.1,
+                            85
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:8b:2e": {
+                    "res": {
+                        "1452253891": [
+                            891.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:15:db:26"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:5a:8c",
+            "place": {
+                "location": [
+                    10.4185628,
+                    63.4090702
+                ],
+                "altitude": 69,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 14,
+            "measures": {
+                "02:00:00:14:40:56": {
+                    "res": {
+                        "1452246213": [
+                            -16.7,
+                            87
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:5a:8c": {
+                    "res": {
+                        "1452246221": [
+                            1001.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:40:56"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:e4:c4",
+            "place": {
+                "location": [
+                    10.420413,
+                    63.4052891
+                ],
+                "altitude": 62,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:05:ea:c8": {
+                    "res": {
+                        "1452253703": [
+                            -14.5,
+                            75
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:e4:c4": {
+                    "res": {
+                        "1452253748": [
+                            1000.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:ea:c8"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:f0:80",
+            "place": {
+                "location": [
+                    10.424342,
+                    63.41322
+                ],
+                "altitude": 86.999733,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:83:04": {
+                    "res": {
+                        "1452253750": [
+                            -14,
+                            82
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:f0:80": {
+                    "res": {
+                        "1452253760": [
+                            1000.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:83:04"
+            ]
+        },
+        {
+            "_id": "70:ee:50:06:9b:06",
+            "place": {
+                "location": [
+                    10.429665,
+                    63.415793
+                ],
+                "altitude": 53,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:06:a4:16": {
+                    "res": {
+                        "1452254075": [
+                            -14.9,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:06:9b:06": {
+                    "res": {
+                        "1452254101": [
+                            998.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:06:a4:16"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:6d:fa",
+            "place": {
+                "location": [
+                    10.420134,
+                    63.419507
+                ],
+                "altitude": 182.148804,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:05:6d:42": {
+                    "res": {
+                        "1452254068": [
+                            -11.5,
+                            67
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:6d:fa": {
+                    "res": {
+                        "1452254115": [
+                            1008.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:6d:42"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:b6:7c",
+            "place": {
+                "location": [
+                    10.435638,
+                    63.310431
+                ],
+                "altitude": 168.658813,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:ef:f0": {
+                    "res": {
+                        "1452254184": [
+                            -15.3,
+                            79
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:b6:7c": {
+                    "res": {
+                        "1452254224": [
+                            1001.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:ef:f0"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:c1:00",
+            "place": {
+                "location": [
+                    10.432580514294,
+                    63.31349295439
+                ],
+                "altitude": 177,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:19:e6:c2": {
+                    "res": {
+                        "1452254192": [
+                            -15,
+                            68
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:c1:00": {
+                    "res": {
+                        "1452254202": [
+                            1006.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:e6:c2"
+            ]
+        },
+        {
+            "_id": "70:ee:50:01:3e:90",
+            "place": {
+                "location": [
+                    10.437713,
+                    63.308711
+                ],
+                "altitude": 162,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:01:2a:1e": {
+                    "res": {
+                        "1452253799": [
+                            -16.5,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:01:e4:ec": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452253818
+                },
+                "70:ee:50:01:3e:90": {
+                    "res": {
+                        "1452253823": [
+                            1007.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:2a:1e",
+                "05:00:00:01:e4:ec"
+            ]
+        },
+        {
+            "_id": "70:ee:50:15:eb:a8",
+            "place": {
+                "location": [
+                    10.4379856,
+                    63.3665846
+                ],
+                "altitude": 158,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:16:1e:06": {
+                    "res": {
+                        "1452254275": [
+                            -17.9,
+                            82
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:15:eb:a8": {
+                    "res": {
+                        "1452254275": [
+                            1007.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:16:1e:06"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:5c:1a",
+            "place": {
+                "location": [
+                    10.432493209838,
+                    63.388761437474
+                ],
+                "altitude": 120,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:12:38:ba": {
+                    "res": {
+                        "1452253881": [
+                            -16.1,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:5c:1a": {
+                    "res": {
+                        "1452253910": [
+                            1003.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:38:ba"
+            ]
+        },
+        {
+            "_id": "70:ee:50:03:c9:94",
+            "place": {
+                "location": [
+                    10.437342755017,
+                    63.400358198932
+                ],
+                "altitude": 105,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:03:a5:1e": {
+                    "res": {
+                        "1452254058": [
+                            -13.8,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:03:c9:94": {
+                    "res": {
+                        "1452254090": [
+                            1004.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:03:a5:1e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:15:fa:00",
+            "place": {
+                "location": [
+                    10.4362067,
+                    63.3941349
+                ],
+                "altitude": 126,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:16:1b:1a": {
+                    "res": {
+                        "1452253706": [
+                            -15.9,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:15:fa:00": {
+                    "res": {
+                        "1452253747": [
+                            1005.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:16:1b:1a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:16:07:06",
+            "place": {
+                "location": [
+                    10.445454,
+                    63.399676
+                ],
+                "altitude": 180,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:9e:ec": {
+                    "res": {
+                        "1452253875": [
+                            -15,
+                            73
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:16:07:06": {
+                    "res": {
+                        "1452253904": [
+                            1004.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:9e:ec"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:86:2c",
+            "place": {
+                "location": [
+                    10.448046,
+                    63.402371
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:15:da:bc": {
+                    "res": {
+                        "1452253798": [
+                            -13.8,
+                            67
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:86:2c": {
+                    "res": {
+                        "1452253809": [
+                            983.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:15:da:bc"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:f1:ca",
+            "place": {
+                "location": [
+                    10.451995,
+                    63.407563
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:17:67:a8": {
+                    "res": {
+                        "1452253936": [
+                            -6,
+                            77
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:f1:ca": {
+                    "res": {
+                        "1452253978": [
+                            987.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:67:a8"
+            ]
+        },
+        {
+            "_id": "70:ee:50:00:e2:e6",
+            "place": {
+                "location": [
+                    10.43305,
+                    63.40846
+                ],
+                "altitude": 119,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:00:ed:58": {
+                    "res": {
+                        "1452253976": [
+                            -14.4,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:00:e2:e6": {
+                    "res": {
+                        "1452253989": [
+                            1005.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:00:ed:58"
+            ]
+        },
+        {
+            "_id": "70:ee:50:15:ee:80",
+            "place": {
+                "location": [
+                    10.436927076057,
+                    63.414982104262
+                ],
+                "altitude": 106,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:16:21:d6": {
+                    "res": {
+                        "1452253992": [
+                            -14,
+                            72
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:15:ee:80": {
+                    "res": {
+                        "1452254035": [
+                            1005.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:16:21:d6"
+            ]
+        },
+        {
+            "_id": "70:ee:50:03:cd:00",
+            "place": {
+                "location": [
+                    10.430519104004,
+                    63.413875247816
+                ],
+                "altitude": 109,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:03:a6:7a": {
+                    "res": {
+                        "1452253970": [
+                            -13.9,
+                            79
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:03:cd:00": {
+                    "res": {
+                        "1452253972": [
+                            1006.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:03:a6:7a",
+                "06:00:00:00:4e:06"
+            ]
+        },
+        {
+            "_id": "70:ee:50:13:7b:98",
+            "place": {
+                "location": [
+                    10.4327,
+                    63.414878
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:14:4b:3c": {
+                    "res": {
+                        "1452253989": [
+                            -13.3,
+                            69
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:13:7b:98": {
+                    "res": {
+                        "1452254033": [
+                            993.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:4b:3c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:02:07:30",
+            "place": {
+                "location": [
+                    10.475216,
+                    63.305847
+                ],
+                "altitude": 129.022888,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:01:e6:a8": {
+                    "res": {
+                        "1452253706": [
+                            -16.8,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:02:07:30": {
+                    "res": {
+                        "1452253711": [
+                            1007.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:e6:a8"
+            ]
+        },
+        {
+            "_id": "70:ee:50:15:f2:00",
+            "place": {
+                "location": [
+                    10.4567991,
+                    63.2999695
+                ],
+                "altitude": 162,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 8,
+            "measures": {
+                "02:00:00:15:db:5e": {
+                    "res": {
+                        "1452253926": [
+                            -12.9,
+                            68
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:01:d3:d6": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452253932
+                },
+                "70:ee:50:15:f2:00": {
+                    "res": {
+                        "1452253934": [
+                            1004.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:15:db:5e",
+                "05:00:00:01:d3:d6"
+            ]
+        },
+        {
+            "_id": "70:ee:50:01:dc:ee",
+            "place": {
+                "location": [
+                    10.45447,
+                    63.401701
+                ],
+                "altitude": 149.176086,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:01:d6:24": {
+                    "res": {
+                        "1452253912": [
+                            -17,
+                            82
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:01:dc:ee": {
+                    "res": {
+                        "1452253956": [
+                            1005.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:d6:24"
+            ]
+        },
+        {
+            "_id": "70:ee:50:02:4b:64",
+            "place": {
+                "location": [
+                    10.456764565974,
+                    63.400555361754
+                ],
+                "altitude": 175,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:02:54:32": {
+                    "res": {
+                        "1452253727": [
+                            -16.9,
+                            83
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:02:4b:64": {
+                    "res": {
+                        "1452253753": [
+                            1007.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:02:54:32"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:c1:ba",
+            "place": {
+                "location": [
+                    10.455035337592,
+                    63.408529910864
+                ],
+                "altitude": 161,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:a8:bc": {
+                    "res": {
+                        "1452253815": [
+                            -15.1,
+                            72
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:c1:ba": {
+                    "res": {
+                        "1452253841": [
+                            1004.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:a8:bc"
+            ]
+        },
+        {
+            "_id": "70:ee:50:01:78:b0",
+            "place": {
+                "location": [
+                    10.456528,
+                    63.411567
+                ],
+                "altitude": 126.172318,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:01:89:5e": {
+                    "res": {
+                        "1452254265": [
+                            -16.8,
+                            85
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:01:78:b0": {
+                    "res": {
+                        "1452254309": [
+                            1007.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:89:5e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:67:02",
+            "place": {
+                "location": [
+                    10.468013,
+                    63.413204
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:14:75:c4": {
+                    "res": {
+                        "1452253864": [
+                            -17.4,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:67:02": {
+                    "res": {
+                        "1452253886": [
+                            988.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:75:c4"
+            ]
+        },
+        {
+            "_id": "70:ee:50:01:ed:0e",
+            "place": {
+                "location": [
+                    10.4689809,
+                    63.4143841
+                ],
+                "altitude": 144,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:01:d7:cc": {
+                    "res": {
+                        "1452254084": [
+                            -16.6,
+                            85
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:01:ed:0e": {
+                    "res": {
+                        "1452254129": [
+                            1008
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:d7:cc"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:d7:50",
+            "place": {
+                "location": [
+                    10.454837,
+                    63.414695
+                ],
+                "altitude": 104.438065,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:de:b4": {
+                    "res": {
+                        "1452253950": [
+                            -15.8,
+                            85
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:d7:50": {
+                    "res": {
+                        "1452253973": [
+                            998.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:de:b4"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:8b:8c",
+            "place": {
+                "location": [
+                    10.498964361352,
+                    63.319916761051
+                ],
+                "altitude": 160,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 0,
+            "measures": {
+                "02:00:00:17:87:e8": {
+                    "res": {
+                        "1452254070": [
+                            8.2,
+                            45
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:8b:8c": {
+                    "res": {
+                        "1452254087": [
+                            1004.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:87:e8"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:04:e4",
+            "place": {
+                "location": [
+                    10.4867137,
+                    63.3491732
+                ],
+                "altitude": 160,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:7f:96": {
+                    "res": {
+                        "1452253966": [
+                            -15.8,
+                            83
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:04:e4": {
+                    "res": {
+                        "1452253974": [
+                            998.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:7f:96"
+            ]
+        },
+        {
+            "_id": "70:ee:50:01:ad:b8",
+            "place": {
+                "location": [
+                    10.479596138,
+                    63.35502243042
+                ],
+                "altitude": 232,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 7,
+            "measures": {
+                "02:00:00:01:e9:4a": {
+                    "res": {
+                        "1452253676": [
+                            -9.2,
+                            73
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:01:ad:b8": {
+                    "res": {
+                        "1452253704": [
+                            1005
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:e9:4a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:76:ac",
+            "place": {
+                "location": [
+                    10.4833101,
+                    63.4071966
+                ],
+                "altitude": 194,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:14:3e:1c": {
+                    "res": {
+                        "1452254001": [
+                            -17.8,
+                            86
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:76:ac": {
+                    "res": {
+                        "1452254029": [
+                            1003.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:3e:1c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:03:6c:ae",
+            "place": {
+                "location": [
+                    10.487378,
+                    63.408709
+                ],
+                "altitude": 180.715652,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:03:84:c2": {
+                    "res": {
+                        "1452253968": [
+                            -15.4,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:03:6c:ae": {
+                    "res": {
+                        "1452254000": [
+                            1004.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:03:84:c2"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:df:8c",
+            "place": {
+                "location": [
+                    10.486614,
+                    63.408034
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:19:07:5c": {
+                    "res": {
+                        "1452254234": [
+                            -18.5,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:df:8c": {
+                    "res": {
+                        "1452254270": [
+                            982.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:07:5c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:02:78:4e",
+            "place": {
+                "location": [
+                    10.497127,
+                    63.417702
+                ],
+                "altitude": 102.779907,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:02:81:f0": {
+                    "res": {
+                        "1452253948": [
+                            -17.1,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:02:78:4e": {
+                    "res": {
+                        "1452253969": [
+                            1007.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:02:81:f0",
+                "05:00:00:00:09:5e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:6b:b6",
+            "place": {
+                "location": [
+                    10.4881829,
+                    63.4226316
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:12:31:66": {
+                    "res": {
+                        "1452254170": [
+                            -14.7,
+                            73
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:6b:b6": {
+                    "res": {
+                        "1452254174": [
+                            995.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:31:66"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:3a:e2",
+            "place": {
+                "location": [
+                    10.493607344397,
+                    63.417796965355
+                ],
+                "altitude": 103,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:14:75:5a": {
+                    "res": {
+                        "1452254066": [
+                            -15.3,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:3a:e2": {
+                    "res": {
+                        "1452254095": [
+                            1002
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:75:5a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:15:dc:74",
+            "place": {
+                "location": [
+                    10.5161638,
+                    63.3984046
+                ],
+                "altitude": 199,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:15:db:a8": {
+                    "res": {
+                        "1452254037": [
+                            -17.3,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:15:dc:74": {
+                    "res": {
+                        "1452254075": [
+                            1000.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:15:db:a8"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:54:7e",
+            "place": {
+                "location": [
+                    10.523269,
+                    63.420149
+                ],
+                "altitude": 42,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:14:7e:2a": {
+                    "res": {
+                        "1452253972": [
+                            -13.8,
+                            70
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:54:7e": {
+                    "res": {
+                        "1452253995": [
+                            1004.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:7e:2a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:79:ee",
+            "place": {
+                "location": [
+                    10.51789343,
+                    63.42017006
+                ],
+                "altitude": 103,
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:14:41:ea": {
+                    "res": {
+                        "1452253810": [
+                            -15.5,
+                            85
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:79:ee": {
+                    "res": {
+                        "1452253843": [
+                            1010.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:41:ea"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:30:26",
+            "place": {
+                "location": [
+                    10.5334758,
+                    63.4143966
+                ],
+                "altitude": 158,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:18:f9:72": {
+                    "res": {
+                        "1452254184": [
+                            -12.7,
+                            88
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:30:26": {
+                    "res": {
+                        "1452254205": [
+                            1005.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:18:f9:72"
+            ]
+        },
+        {
+            "_id": "70:ee:50:15:fc:b0",
+            "place": {
+                "location": [
+                    10.5439045,
+                    63.4215284
+                ],
+                "altitude": 80,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 0,
+            "measures": {
+                "02:00:00:16:16:a2": {
+                    "res": {
+                        "1452253707": [
+                            -16.9,
+                            79
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:15:fc:b0": {
+                    "res": {
+                        "1452253719": [
+                            1002.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:16:16:a2"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:4a:3e",
+            "place": {
+                "location": [
+                    10.632080554962,
+                    63.414456633779
+                ],
+                "altitude": 141,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "70:ee:50:12:4a:3e": {
+                    "res": {
+                        "1452254217": [
+                            1005.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:39:4c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:66:12",
+            "place": {
+                "location": [
+                    10.631114959717,
+                    63.41686573072
+                ],
+                "altitude": 130,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:12:51:d4": {
+                    "res": {
+                        "1452253705": [
+                            -18.3,
+                            81
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:66:12": {
+                    "res": {
+                        "1452253740": [
+                            1004.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:51:d4"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:85:22",
+            "place": {
+                "location": [
+                    10.1340997,
+                    63.4197282
+                ],
+                "altitude": 77,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:9a:cc": {
+                    "res": {
+                        "1452254042": [
+                            -15.1,
+                            78
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:85:22": {
+                    "res": {
+                        "1452254081": [
+                            1001
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:9a:cc"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:bd:18",
+            "place": {
+                "location": [
+                    10.163987148563,
+                    63.310116059206
+                ],
+                "altitude": 10,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:d5:c2": {
+                    "res": {
+                        "1452254200": [
+                            -15.8,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:00:68:a0": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452254225
+                },
+                "70:ee:50:04:bd:18": {
+                    "res": {
+                        "1452254233": [
+                            1000
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:d5:c2",
+                "05:00:00:00:68:a0"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:ba:7a",
+            "place": {
+                "location": [
+                    10.1610251,
+                    63.3075223
+                ],
+                "altitude": 53,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:19:0c:88": {
+                    "res": {
+                        "1452254046": [
+                            -16.5,
+                            75
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:ba:7a": {
+                    "res": {
+                        "1452254056": [
+                            1004.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:0c:88"
+            ]
+        },
+        {
+            "_id": "70:ee:50:13:56:34",
+            "place": {
+                "location": [
+                    10.192279,
+                    63.352793
+                ],
+                "altitude": 65,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:13:1c:2c": {
+                    "res": {
+                        "1452253911": [
+                            -14.5,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:13:56:34": {
+                    "res": {
+                        "1452253928": [
+                            1005.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:13:1c:2c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:00:c6:50",
+            "place": {
+                "location": [
+                    10.196583,
+                    63.299582
+                ],
+                "altitude": 39.999996,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:01:01:50": {
+                    "res": {
+                        "1452253708": [
+                            -15.9,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:00:c6:50": {
+                    "res": {
+                        "1452253742": [
+                            1004.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:01:50"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:7a:24",
+            "place": {
+                "location": [
+                    10.257572350787,
+                    63.354874426416
+                ],
+                "altitude": 180,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:12:44:5a": {
+                    "res": {
+                        "1452253814": [
+                            -15,
+                            78
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:7a:24": {
+                    "res": {
+                        "1452253832": [
+                            1003.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:44:5a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:a6:dc",
+            "place": {
+                "location": [
+                    10.3051827,
+                    63.3543746
+                ],
+                "altitude": 166,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:a9:a6": {
+                    "res": {
+                        "1452253745": [
+                            -15.2,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:a6:dc": {
+                    "res": {
+                        "1452253778": [
+                            1003.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:a9:a6"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:47:8e",
+            "place": {
+                "location": [
+                    10.297194200425,
+                    63.394414365903
+                ],
+                "altitude": 233,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:14:55:38": {
+                    "res": {
+                        "1452254002": [
+                            -15.8,
+                            83
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:47:8e": {
+                    "res": {
+                        "1452254005": [
+                            1004.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:55:38"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:74:7e",
+            "place": {
+                "location": [
+                    10.329825245012,
+                    63.350211482281
+                ],
+                "altitude": 155,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:14:77:16": {
+                    "res": {
+                        "1452253966": [
+                            -16.5,
+                            87
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:74:7e": {
+                    "res": {
+                        "1452254009": [
+                            1006.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:77:16"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:8f:32",
+            "place": {
+                "location": [
+                    10.322047,
+                    63.3531418
+                ],
+                "altitude": 186,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:17:9d:60": {
+                    "res": {
+                        "1452253668": [
+                            -13.3,
+                            59
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:8f:32": {
+                    "res": {
+                        "1452253700": [
+                            1003
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:9d:60"
+            ]
+        },
+        {
+            "_id": "70:ee:50:15:fe:10",
+            "place": {
+                "location": [
+                    10.329577,
+                    63.355809
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:15:f3:1e": {
+                    "res": {
+                        "1452254071": [
+                            -16,
+                            81
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:15:fe:10": {
+                    "res": {
+                        "1452254081": [
+                            982
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:15:f3:1e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:c1:c6",
+            "place": {
+                "location": [
+                    10.328852,
+                    63.377226
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:19:0c:f0": {
+                    "res": {
+                        "1452253986": [
+                            -13.4,
+                            69
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:02:04:18": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452253999
+                },
+                "70:ee:50:19:c1:c6": {
+                    "res": {
+                        "1452254002": [
+                            979.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:0c:f0",
+                "05:00:00:02:04:18"
+            ]
+        },
+        {
+            "_id": "70:ee:50:02:0c:f2",
+            "place": {
+                "location": [
+                    10.328881,
+                    63.379465
+                ],
+                "altitude": 220,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:02:04:7c": {
+                    "res": {
+                        "1452254222": [
+                            -11.8,
+                            71
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:02:0c:f2": {
+                    "res": {
+                        "1452254260": [
+                            1007.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:02:04:7c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:b3:ce",
+            "place": {
+                "location": [
+                    10.335918,
+                    63.389368
+                ],
+                "altitude": 167,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:04:f6:dc": {
+                    "res": {
+                        "1452254279": [
+                            -2.6,
+                            45
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:b3:ce": {
+                    "res": {
+                        "1452254279": [
+                            1000.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:f6:dc"
+            ]
+        },
+        {
+            "_id": "70:ee:50:13:7c:da",
+            "place": {
+                "location": [
+                    10.327219,
+                    63.388412
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:13:84:20": {
+                    "res": {
+                        "1452253868": [
+                            -14.3,
+                            79
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:13:7c:da": {
+                    "res": {
+                        "1452253879": [
+                            980.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:13:84:20"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:88:38",
+            "place": {
+                "location": [
+                    10.3248502,
+                    63.3944826
+                ],
+                "altitude": 194,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:61:d2": {
+                    "res": {
+                        "1452254009": [
+                            -13.8,
+                            83
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:88:38": {
+                    "res": {
+                        "1452254031": [
+                            1001.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:61:d2"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:a4:54",
+            "place": {
+                "location": [
+                    10.3308102,
+                    63.3946905
+                ],
+                "altitude": 175,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:12:a3:d8": {
+                    "res": {
+                        "1452254238": [
+                            -8.3,
+                            60
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:a4:54": {
+                    "res": {
+                        "1452254280": [
+                            1004.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:a3:d8"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:6a:68",
+            "place": {
+                "location": [
+                    10.3288013,
+                    63.4013467
+                ],
+                "altitude": 240,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:14:7c:be": {
+                    "res": {
+                        "1452254050": [
+                            -15.1,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:01:22:ac": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452254063
+                },
+                "70:ee:50:14:6a:68": {
+                    "res": {
+                        "1452254065": [
+                            1004.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:7c:be",
+                "05:00:00:01:22:ac"
+            ]
+        },
+        {
+            "_id": "70:ee:50:13:1e:32",
+            "place": {
+                "location": [
+                    10.3287783,
+                    63.4051875
+                ],
+                "altitude": 210,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:13:07:5c": {
+                    "res": {
+                        "1452254121": [
+                            -11.1,
+                            67
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:13:1e:32": {
+                    "res": {
+                        "1452254148": [
+                            1004.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:13:07:5c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:c6:58",
+            "place": {
+                "location": [
+                    10.3537481,
+                    63.3389806
+                ],
+                "altitude": 0,
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "70:ee:50:05:c6:58": {
+                    "res": {
+                        "1452254184": [
+                            982.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:71:0e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:02:05:ce",
+            "place": {
+                "location": [
+                    10.35221802,
+                    63.34551414
+                ],
+                "altitude": 139,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:01:f7:64": {
+                    "res": {
+                        "1452254037": [
+                            -16.8,
+                            85
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:02:05:ce": {
+                    "res": {
+                        "1452254065": [
+                            1010.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:f7:64"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:00:06",
+            "place": {
+                "location": [
+                    10.336092407349,
+                    63.339225235531
+                ],
+                "altitude": 122,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:19:25:74": {
+                    "res": {
+                        "1452254196": [
+                            -17.6,
+                            79
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:00:06": {
+                    "res": {
+                        "1452254196": [
+                            1003.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:25:74"
+            ]
+        },
+        {
+            "_id": "70:ee:50:00:c8:e2",
+            "place": {
+                "location": [
+                    10.34592,
+                    63.35313
+                ],
+                "altitude": 151,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:00:cf:64": {
+                    "res": {
+                        "1452253810": [
+                            -15.6,
+                            77
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:00:c8:e2": {
+                    "res": {
+                        "1452253839": [
+                            1007.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:00:cf:64"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:de:96",
+            "place": {
+                "location": [
+                    10.348267,
+                    63.37783
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:19:08:06": {
+                    "res": {
+                        "1452254120": [
+                            -14.1,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:de:96": {
+                    "res": {
+                        "1452254150": [
+                            987.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:08:06"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:de:5e",
+            "place": {
+                "location": [
+                    10.3461103,
+                    63.3769593
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:18:fd:16": {
+                    "res": {
+                        "1452254035": [
+                            -16.6,
+                            83
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:de:5e": {
+                    "res": {
+                        "1452254060": [
+                            984.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:18:fd:16"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:f6:46",
+            "place": {
+                "location": [
+                    10.3376298,
+                    63.3792794
+                ],
+                "altitude": 197,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:13:0a:24": {
+                    "res": {
+                        "1452253855": [
+                            -14,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:f6:46": {
+                    "res": {
+                        "1452253860": [
+                            1005.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:13:0a:24"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:79:26",
+            "place": {
+                "location": [
+                    10.34224,
+                    63.385119
+                ],
+                "altitude": 112,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:64:3a": {
+                    "res": {
+                        "1452254057": [
+                            -15.5,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:00:91:54": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452254057
+                },
+                "70:ee:50:04:79:26": {
+                    "res": {
+                        "1452254061": [
+                            997.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:64:3a",
+                "05:00:00:00:91:54"
+            ]
+        },
+        {
+            "_id": "70:ee:50:16:24:86",
+            "place": {
+                "location": [
+                    10.355093,
+                    63.387858
+                ],
+                "altitude": 98,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:16:25:1c": {
+                    "res": {
+                        "1452254256": [
+                            -13.9,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:01:dc:ba": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452254262
+                },
+                "70:ee:50:16:24:86": {
+                    "res": {
+                        "1452254267": [
+                            1004.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:16:25:1c",
+                "05:00:00:01:dc:ba"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:c4:34",
+            "place": {
+                "location": [
+                    10.337849,
+                    63.388221
+                ],
+                "altitude": 141,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 5,
+            "measures": {
+                "02:00:00:04:ed:ea": {
+                    "res": {
+                        "1452253998": [
+                            -7,
+                            63
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:c4:34": {
+                    "res": {
+                        "1452254016": [
+                            998.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:ed:ea"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:00:2c",
+            "place": {
+                "location": [
+                    10.340303,
+                    63.399199
+                ],
+                "altitude": 170,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:f7:0e": {
+                    "res": {
+                        "1452253730": [
+                            -14.5,
+                            85
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:00:2c": {
+                    "res": {
+                        "1452253772": [
+                            998.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:f7:0e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:03:b0:ca",
+            "place": {
+                "location": [
+                    10.351656661377,
+                    63.401854512371
+                ],
+                "altitude": 191,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:03:a8:60": {
+                    "res": {
+                        "1452253847": [
+                            -15.3,
+                            86
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:00:8e:8c": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452253859
+                },
+                "70:ee:50:03:b0:ca": {
+                    "res": {
+                        "1452253867": [
+                            1005.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:03:a8:60",
+                "05:00:00:00:8e:8c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:18:fe:e8",
+            "place": {
+                "location": [
+                    10.342111,
+                    63.400416
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:19:15:b6": {
+                    "res": {
+                        "1452254188": [
+                            -13.8,
+                            75
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:18:fe:e8": {
+                    "res": {
+                        "1452254228": [
+                            985.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:15:b6"
+            ]
+        },
+        {
+            "_id": "70:ee:50:01:cf:d2",
+            "place": {
+                "location": [
+                    10.3588,
+                    63.4098427
+                ],
+                "altitude": 146,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:01:f4:2a": {
+                    "res": {
+                        "1452254129": [
+                            -12,
+                            73
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:01:cf:d2": {
+                    "res": {
+                        "1452254146": [
+                            1009.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:f4:2a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:02:7b:f2",
+            "place": {
+                "location": [
+                    10.3457773,
+                    63.4037722
+                ],
+                "altitude": 207,
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "70:ee:50:02:7b:f2": {
+                    "res": {
+                        "1452254216": [
+                            1005.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:02:80:30"
+            ]
+        },
+        {
+            "_id": "70:ee:50:00:8f:a0",
+            "place": {
+                "location": [
+                    10.3459,
+                    63.40894
+                ],
+                "altitude": 200,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:00:97:f6": {
+                    "res": {
+                        "1452254184": [
+                            -12.7,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:00:8f:a0": {
+                    "res": {
+                        "1452254186": [
+                            1003.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:00:97:f6"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:a0:58",
+            "place": {
+                "location": [
+                    10.3499807,
+                    63.4165618
+                ],
+                "altitude": 158,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:96:8a": {
+                    "res": {
+                        "1452254202": [
+                            -11.9,
+                            69
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:a0:58": {
+                    "res": {
+                        "1452254213": [
+                            1001.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:96:8a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:65:76",
+            "place": {
+                "location": [
+                    10.3555964,
+                    63.4170775
+                ],
+                "altitude": 150,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:05:57:de": {
+                    "res": {
+                        "1452254100": [
+                            -15.5,
+                            88
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:65:76": {
+                    "res": {
+                        "1452254139": [
+                            1004.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:57:de"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:eb:5e",
+            "place": {
+                "location": [
+                    10.375472213769,
+                    63.321579107353
+                ],
+                "altitude": 170,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:04:83:c0": {
+                    "res": {
+                        "1452244575": [
+                            -13.6,
+                            70
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:eb:5e": {
+                    "res": {
+                        "1452253731": [
+                            1000
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:83:c0"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:72:4c",
+            "place": {
+                "location": [
+                    10.3638778,
+                    63.3371372
+                ],
+                "altitude": 144,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:12:3a:78": {
+                    "res": {
+                        "1452254193": [
+                            -17,
+                            82
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:72:4c": {
+                    "res": {
+                        "1452254233": [
+                            997.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:3a:78"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:85:e4",
+            "place": {
+                "location": [
+                    10.3782945,
+                    63.3487689
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:17:8f:e6": {
+                    "res": {
+                        "1452254224": [
+                            -14.1,
+                            71
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:85:e4": {
+                    "res": {
+                        "1452254242": [
+                            984.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:8f:e6"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:69:68",
+            "place": {
+                "location": [
+                    10.38082106,
+                    63.347555
+                ],
+                "altitude": 182,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:12:45:ac": {
+                    "res": {
+                        "1452253936": [
+                            -14.5,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:69:68": {
+                    "res": {
+                        "1452253943": [
+                            1007.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:45:ac"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:84:3a",
+            "place": {
+                "location": [
+                    10.363288,
+                    63.359749
+                ],
+                "altitude": 131,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:87:fe": {
+                    "res": {
+                        "1452253874": [
+                            -15.3,
+                            78
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:84:3a": {
+                    "res": {
+                        "1452253889": [
+                            1002.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:87:fe"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:22:4e",
+            "place": {
+                "location": [
+                    10.3825624,
+                    63.3529744
+                ],
+                "altitude": 145,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:18:f8:fc": {
+                    "res": {
+                        "1452254198": [
+                            -14.6,
+                            78
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:22:4e": {
+                    "res": {
+                        "1452254239": [
+                            1004
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:18:f8:fc"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:86:ce",
+            "place": {
+                "location": [
+                    10.3660938,
+                    63.3543999
+                ],
+                "altitude": 160,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:89:44": {
+                    "res": {
+                        "1452253882": [
+                            -15.4,
+                            78
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:86:ce": {
+                    "res": {
+                        "1452253891": [
+                            1001.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:89:44"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:37:f8",
+            "place": {
+                "location": [
+                    10.381124,
+                    63.362846
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:14:4e:aa": {
+                    "res": {
+                        "1452254202": [
+                            -14.8,
+                            78
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:01:f6:9a": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452254215
+                },
+                "70:ee:50:14:37:f8": {
+                    "res": {
+                        "1452254225": [
+                            985
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:4e:aa",
+                "05:00:00:01:f6:9a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:13:2d:46",
+            "place": {
+                "location": [
+                    10.361568083644,
+                    63.370484072275
+                ],
+                "altitude": 122,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:13:0c:46": {
+                    "res": {
+                        "1452253878": [
+                            -15.1,
+                            79
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:13:2d:46": {
+                    "res": {
+                        "1452253880": [
+                            1009.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:13:0c:46"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:de:f2",
+            "place": {
+                "location": [
+                    10.3812640465,
+                    63.381985742623
+                ],
+                "altitude": 67,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 7,
+            "measures": {
+                "02:00:00:19:14:0a": {
+                    "res": {
+                        "1452247297": [
+                            -17.7,
+                            81
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:de:f2": {
+                    "res": {
+                        "1452247331": [
+                            1006.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:14:0a"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:ba:6a",
+            "place": {
+                "location": [
+                    10.368233277947,
+                    63.381631479188
+                ],
+                "altitude": 59,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:e1:f2": {
+                    "res": {
+                        "1452254071": [
+                            -15.7,
+                            81
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:ba:6a": {
+                    "res": {
+                        "1452254092": [
+                            1001.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:e1:f2"
+            ]
+        },
+        {
+            "_id": "70:ee:50:06:99:1e",
+            "place": {
+                "location": [
+                    10.363524,
+                    63.382954
+                ],
+                "altitude": 112.194641,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "02:00:00:06:a0:04": {
+                    "res": {
+                        "1452254194": [
+                            -17.2,
+                            89
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:06:99:1e": {
+                    "res": {
+                        "1452254194": [
+                            1013.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:06:a0:04"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:8c:1a",
+            "place": {
+                "location": [
+                    10.365232156143,
+                    63.393711314805
+                ],
+                "altitude": 127,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 0,
+            "measures": {
+                "02:00:00:05:5b:60": {
+                    "res": {
+                        "1452254005": [
+                            -9.2,
+                            70
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:8c:1a": {
+                    "res": {
+                        "1452254052": [
+                            998.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:5b:60"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:92:b4",
+            "place": {
+                "location": [
+                    10.3627281,
+                    63.3935877
+                ],
+                "altitude": 125,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:04:92:1c": {
+                    "res": {
+                        "1452254034": [
+                            -11.6,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:92:b4": {
+                    "res": {
+                        "1452254076": [
+                            998.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:92:1c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:01:80:82",
+            "place": {
+                "location": [
+                    10.36998,
+                    63.39371
+                ],
+                "altitude": 124,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:01:80:68": {
+                    "res": {
+                        "1452253737": [
+                            -13.8,
+                            82
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:01:80:82": {
+                    "res": {
+                        "1452253761": [
+                            1007.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:01:80:68"
+            ]
+        },
+        {
+            "_id": "70:ee:50:13:88:64",
+            "place": {
+                "location": [
+                    10.37285253,
+                    63.4034094
+                ],
+                "altitude": 145,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:13:70:ec": {
+                    "res": {
+                        "1452254201": [
+                            -14.3,
+                            79
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:13:88:64": {
+                    "res": {
+                        "1452254227": [
+                            1006.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:13:70:ec"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:56:a6",
+            "place": {
+                "location": [
+                    10.3710536,
+                    63.4123283
+                ],
+                "altitude": 99,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 0,
+            "measures": {
+                "02:00:00:14:79:d2": {
+                    "res": {
+                        "1452253875": [
+                            9.4,
+                            38
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:56:a6": {
+                    "res": {
+                        "1452253881": [
+                            1004.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:79:d2"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:72:94",
+            "place": {
+                "location": [
+                    10.362500552191,
+                    63.407043286304
+                ],
+                "altitude": 142,
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:14:4f:68": {
+                    "res": {
+                        "1452254050": [
+                            -15.1,
+                            73
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:72:94": {
+                    "res": {
+                        "1452254097": [
+                            1006.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:4f:68"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:a3:5e",
+            "place": {
+                "location": [
+                    10.3808472,
+                    63.4136502
+                ],
+                "altitude": 44,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:04:9f:00": {
+                    "res": {
+                        "1452254002": [
+                            -15.8,
+                            86
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:a3:5e": {
+                    "res": {
+                        "1452254019": [
+                            1003.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:9f:00"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:9f:bc",
+            "place": {
+                "location": [
+                    10.37516,
+                    63.419344
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:17:8b:9c": {
+                    "res": {
+                        "1452253854": [
+                            -14.2,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:9f:bc": {
+                    "res": {
+                        "1452253865": [
+                            1001.9
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:8b:9c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:5f:f0",
+            "place": {
+                "location": [
+                    10.3638301,
+                    63.4160444
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:05:59:b2": {
+                    "res": {
+                        "1452253809": [
+                            -10.8,
+                            72
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:5f:f0": {
+                    "res": {
+                        "1452253817": [
+                            989.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:59:b2"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:82:62",
+            "place": {
+                "location": [
+                    10.3963424,
+                    63.3546109
+                ],
+                "altitude": 146,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:85:68": {
+                    "res": {
+                        "1452254192": [
+                            -15.7,
+                            77
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:82:62": {
+                    "res": {
+                        "1452254230": [
+                            1002.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:85:68"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:63:68",
+            "place": {
+                "location": [
+                    10.385849,
+                    63.352232
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:14:6d:7e": {
+                    "res": {
+                        "1452253938": [
+                            -18.9,
+                            92
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:63:68": {
+                    "res": {
+                        "1452253987": [
+                            987.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:6d:7e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:1a:fc:58",
+            "place": {
+                "location": [
+                    10.3871285,
+                    63.3497131
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:1a:f1:92": {
+                    "res": {
+                        "1452254246": [
+                            -15.1,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:1a:fc:58": {
+                    "res": {
+                        "1452254295": [
+                            987.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:1a:f1:92"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:c4:ae",
+            "place": {
+                "location": [
+                    10.3994187,
+                    63.3624941
+                ],
+                "altitude": 154,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:dc:14": {
+                    "res": {
+                        "1452254097": [
+                            -16.1,
+                            84
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:c4:ae": {
+                    "res": {
+                        "1452254116": [
+                            999.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:dc:14"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:5a:06",
+            "place": {
+                "location": [
+                    10.400007,
+                    63.364001
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:17:8b:d0": {
+                    "res": {
+                        "1452254014": [
+                            -15.9,
+                            81
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:5a:06": {
+                    "res": {
+                        "1452254057": [
+                            991.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:8b:d0"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:0c:c4",
+            "place": {
+                "location": [
+                    10.38492,
+                    63.36233
+                ],
+                "altitude": 148,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 8,
+            "measures": {
+                "02:00:00:19:36:50": {
+                    "res": {
+                        "1452254178": [
+                            -13.4,
+                            71
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:0c:c4": {
+                    "res": {
+                        "1452254212": [
+                            1005.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:19:36:50"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:5c:e8",
+            "place": {
+                "location": [
+                    10.396414,
+                    63.372185
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:17:7e:20": {
+                    "res": {
+                        "1452254284": [
+                            -15.9,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:5c:e8": {
+                    "res": {
+                        "1452254301": [
+                            989.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:7e:20"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:5b:f6",
+            "place": {
+                "location": [
+                    10.399024188518,
+                    63.372950013897
+                ],
+                "altitude": 96,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:7e:12": {
+                    "res": {
+                        "1452254076": [
+                            -13.7,
+                            75
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:5b:f6": {
+                    "res": {
+                        "1452254102": [
+                            1002
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:7e:12"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:81:96",
+            "place": {
+                "location": [
+                    10.400529970131,
+                    63.373429438395
+                ],
+                "altitude": 84,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:9d:ba": {
+                    "res": {
+                        "1452254183": [
+                            -12.7,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:81:96": {
+                    "res": {
+                        "1452254184": [
+                            1003.2
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:9d:ba"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:76:f4",
+            "place": {
+                "location": [
+                    10.3971576,
+                    63.3887749
+                ],
+                "altitude": 43,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:14:55:58": {
+                    "res": {
+                        "1452253832": [
+                            -13.3,
+                            64
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:14:76:f4": {
+                    "res": {
+                        "1452253835": [
+                            1000
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:55:58"
+            ]
+        },
+        {
+            "_id": "70:ee:50:02:7f:28",
+            "place": {
+                "location": [
+                    10.394062,
+                    63.3868967
+                ],
+                "altitude": 60,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:02:b4:50": {
+                    "res": {
+                        "1452253722": [
+                            -16.7,
+                            78
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:01:db:28": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452253723
+                },
+                "70:ee:50:02:7f:28": {
+                    "res": {
+                        "1452253731": [
+                            1007.1
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:02:b4:50",
+                "05:00:00:01:db:28"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:b4:ec",
+            "place": {
+                "location": [
+                    10.392938,
+                    63.38749
+                ],
+                "altitude": 39.456726,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:fc:d2": {
+                    "res": {
+                        "1452253831": [
+                            -16.6,
+                            90
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:b4:ec": {
+                    "res": {
+                        "1452253875": [
+                            997.6
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:fc:d2"
+            ]
+        },
+        {
+            "_id": "70:ee:50:02:e8:d8",
+            "place": {
+                "location": [
+                    10.400436,
+                    63.41263
+                ],
+                "altitude": 27.531385,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 0,
+            "measures": {
+                "02:00:00:02:b5:2c": {
+                    "res": {
+                        "1452254257": [
+                            22.9,
+                            14
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:02:e8:d8": {
+                    "res": {
+                        "1452254279": [
+                            1009.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:02:b5:2c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:6c:5a",
+            "place": {
+                "location": [
+                    10.167370368091,
+                    63.240354171471
+                ],
+                "altitude": 171,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:80:be": {
+                    "res": {
+                        "1452254120": [
+                            -15.1,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:6c:5a": {
+                    "res": {
+                        "1452254147": [
+                            1002.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:80:be",
+                "05:00:00:01:e4:68"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:89:e0",
+            "place": {
+                "location": [
+                    10.166946899414,
+                    63.295622513165
+                ],
+                "altitude": 272,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 12,
+            "measures": {
+                "02:00:00:16:07:c4": {
+                    "res": {
+                        "1452254196": [
+                            -16.9,
+                            80
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:89:e0": {
+                    "res": {
+                        "1452254239": [
+                            1001.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:16:07:c4"
+            ]
+        },
+        {
+            "_id": "70:ee:50:1a:ff:30",
+            "place": {
+                "location": [
+                    10.212801521704,
+                    63.260528054665
+                ],
+                "altitude": 159,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:1a:f9:56": {
+                    "res": {
+                        "1452254243": [
+                            -16.5,
+                            70
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:1a:ff:30": {
+                    "res": {
+                        "1452254273": [
+                            1003.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:1a:f9:56"
+            ]
+        },
+        {
+            "_id": "70:ee:50:14:65:5a",
+            "place": {
+                "location": [
+                    10.199363,
+                    63.294065
+                ],
+                "altitude": 50,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:14:41:2c": {
+                    "res": {
+                        "1452254252": [
+                            -18.3,
+                            88
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "05:00:00:01:7a:f4": {
+                    "rain_60min": 0,
+                    "rain_24h": 0,
+                    "rain_live": 0,
+                    "rain_timeutc": 1452254245
+                },
+                "70:ee:50:14:65:5a": {
+                    "res": {
+                        "1452254252": [
+                            1006.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:14:41:2c",
+                "05:00:00:01:7a:f4"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:87:c6",
+            "place": {
+                "location": [
+                    10.240165679346,
+                    63.276780846771
+                ],
+                "altitude": 125,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:17:97:a4": {
+                    "res": {
+                        "1452253911": [
+                            -16.5,
+                            76
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:87:c6": {
+                    "res": {
+                        "1452253919": [
+                            1005.3
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:97:a4"
+            ]
+        },
+        {
+            "_id": "70:ee:50:19:e0:04",
+            "place": {
+                "location": [
+                    10.3090059,
+                    63.1972055
+                ],
+                "altitude": 40,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:18:fc:94": {
+                    "res": {
+                        "1452253911": [
+                            -16.5,
+                            72
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:19:e0:04": {
+                    "res": {
+                        "1452253962": [
+                            1007.4
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:18:fc:94"
+            ]
+        },
+        {
+            "_id": "70:ee:50:06:00:24",
+            "place": {
+                "location": [
+                    10.2952076,
+                    63.285774
+                ],
+                "altitude": 114,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:05:c1:4c": {
+                    "res": {
+                        "1452254071": [
+                            -14.2,
+                            81
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:06:00:24": {
+                    "res": {
+                        "1452254096": [
+                            1007
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:c1:4c"
+            ]
+        },
+        {
+            "_id": "70:ee:50:12:a4:f4",
+            "place": {
+                "location": [
+                    9.844168,
+                    63.307338
+                ],
+                "timezone": "Europe/Oslo"
+            },
+            "measures": {
+                "02:00:00:12:9e:0e": {
+                    "res": {
+                        "1452254140": [
+                            -15.7,
+                            74
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:12:a4:f4": {
+                    "res": {
+                        "1452254169": [
+                            1006.5
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:12:9e:0e"
+            ]
+        },
+        {
+            "_id": "70:ee:50:17:85:32",
+            "place": {
+                "location": [
+                    9.8496749999999,
+                    63.297291
+                ],
+                "altitude": 0,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:17:96:68": {
+                    "res": {
+                        "1452253898": [
+                            -14.4,
+                            66
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:17:85:32": {
+                    "res": {
+                        "1452253903": [
+                            1003.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:17:96:68"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:be:0e",
+            "place": {
+                "location": [
+                    10.046577,
+                    63.323933
+                ],
+                "altitude": 93,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 13,
+            "measures": {
+                "70:ee:50:04:be:0e": {
+                    "res": {
+                        "1452253914": [
+                            997.8
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:f4:62"
+            ]
+        },
+        {
+            "_id": "70:ee:50:05:64:0a",
+            "place": {
+                "location": [
+                    10.070008,
+                    63.326945
+                ],
+                "altitude": 6.686936,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 10,
+            "measures": {
+                "02:00:00:05:51:42": {
+                    "res": {
+                        "1452254126": [
+                            -12.6,
+                            72
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:05:64:0a": {
+                    "res": {
+                        "1452254163": [
+                            1002
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:05:51:42"
+            ]
+        },
+        {
+            "_id": "70:ee:50:04:8c:fe",
+            "place": {
+                "location": [
+                    9.8467445373535,
+                    63.283392341133
+                ],
+                "altitude": 12,
+                "timezone": "Europe/Oslo"
+            },
+            "mark": 15,
+            "measures": {
+                "02:00:00:04:a7:42": {
+                    "res": {
+                        "1452253989": [
+                            -16.2,
+                            78
+                        ]
+                    },
+                    "type": [
+                        "temperature",
+                        "humidity"
+                    ]
+                },
+                "70:ee:50:04:8c:fe": {
+                    "res": {
+                        "1452254026": [
+                            1007.7
+                        ]
+                    },
+                    "type": [
+                        "pressure"
+                    ]
+                }
+            },
+            "modules": [
+                "02:00:00:04:a7:42"
+            ]
+        }
+    ],
+    "status": "ok",
+    "time_exec": 0.020300149917603,
+    "time_server": 1452254528
+}

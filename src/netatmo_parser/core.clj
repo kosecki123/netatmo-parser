@@ -84,8 +84,8 @@
         result-body (:body (get-netatmo-data city-location))
         extracted-measures (map #(get-measure-values %) result-body)
         measured-values (map get-measure-results-by-type extracted-measures)
-        temparatures (filter some? (map #(:temperature %) measured-values))
-        rains (filter some? (map #(:rain %) measured-values))]
+        temparatures (keep :temperature measured-values)
+        rains (keep :rain measured-values)]
     (println city "location" city-location)
     (println "Average temperature is" (average temparatures) "based on" (count temparatures) "results")
     (println "Current average rain drop is"  (average rains) "based on" (count rains) "results")))

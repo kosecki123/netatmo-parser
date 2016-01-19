@@ -32,29 +32,25 @@
 
 (def first-vals (comp first vals))
 
-(defn get-measure-values [{modules :modules, measures :measures}]
-  (let [devices (map keyword modules)
-        measure-values (select-keys measures devices)]
-    (vals measure-values)))
-
 (defn index-of [item coll]
   (count (take-while (partial not= item) coll)))
 
-(defn get-temperature [{:keys [type res]}]
+(defn extract-temperature [{:keys [type res]}]
   (let [value-index (index-of "temperature" type)
         all-values (first-vals res)]
     (nth all-values value-index)))
 
-(defn get-rain [res]
+(defn extract-rain [res]
   (:rain_live (first res)))
 
-(defn get-measure-results-by-type [all-measures]
-  (let [measures-split-by-device ((juxt filter remove) #(contains? % :type) all-measures)
-        measures-with-temp (ffirst measures-split-by-device)
-        measures-with-rain (fnext measures-split-by-device)
-        values-temperature (get-temperature measures-with-temp)
-        values-rain (get-rain measures-with-rain)]
-    {:temperature values-temperature, :rain values-rain}))
+(defn get-measurements [{modules :modules, measures :measures}]
+  (let [devices (map keyword modules)
+        all-measures (vals (select-keys measures devices))
+        by-device ((juxt filter remove) #(contains? % :type) all-measures)
+        temperature-measurements (ffirst by-device)
+        rain-measurements (fnext by-device)]
+    {:temperature (extract-temperature temperature-measurements),
+     :rain        (extract-rain rain-measurements)}))
 
 (defn get-location-from-body [{:keys [results]}]
   (let [area (get-in (first results) [:geometry :bounds])
@@ -82,8 +78,7 @@
   (let [city (first args)
         city-location (get-location city)
         result-body (:body (get-netatmo-data city-location))
-        extracted-measures (map #(get-measure-values %) result-body)
-        measured-values (map get-measure-results-by-type extracted-measures)
+        measured-values (map get-measurements result-body)
         temparatures (keep :temperature measured-values)
         rains (keep :rain measured-values)]
     (println city "location" city-location)

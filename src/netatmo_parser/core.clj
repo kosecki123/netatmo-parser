@@ -73,8 +73,7 @@
     (get-location-from-body body)))
 
 (defn average [numbers]
-  (if (empty? numbers)
-    nil
+  (when (seq numbers)
     (/ (apply + numbers) (count numbers))))
 
 (defn -main
